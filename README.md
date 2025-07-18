@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nazarpot. Currently a student in Computer Science at CSUS
+- 👋 Hi, I’m @nazarpot. A recent grad in Computer Science. Currently looking for a job
 - 👀 I’m interested in a lot of things. Currently exploring what is most interesting to me in software engineering and developing
-- 🌱 I’m currently learning Javascript, Go, the Django framework, and Square API's
-- 💞️ I’m looking to collaborate on ... not really sure to be honest
+- 🌱 I’m currently learning Javascript in depth
 - 📫 How to reach me:
   - email: nazarpot@gmail.com 
 - ⚡ Fun fact: ...
