@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things. Currently exploring what is most interesting to me in software engineering and developing
 - 🌱 I’m currently learning Javascript in depth
 - 📫 How to reach me:
-  - email: nazarpot@gmail.com 
+  - use the contact form on the contact me page of my website (nazarpot.github.io)
 - ⚡ Fun fact: ...
 
 <!---
